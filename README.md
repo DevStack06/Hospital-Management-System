@@ -9,5 +9,5 @@ This app used the xamp server for development
 
 It was 2nd year DBMS project for hospial management system
 
-__Note:_
-If any one want to use this project, they should change the localhost port to there own port. This repository is basically for reffrence because it uses php. Now people will prefer Node js and React js for web development and Mongo DB for databse :smile:
+__Note:
+If any one want to use this project, they should change the localhost port to there own port. This repository is basically for reffrence because it uses php. Now people will prefer Node js and React js for web development and Mongo DB for databse :smile:__
